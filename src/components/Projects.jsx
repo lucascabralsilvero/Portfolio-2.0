@@ -8,18 +8,19 @@ const Projects = () => {
       {data.map((project) => {
         return (
           <div
-            className=" dark:text-white border mt-10 flex flex-col justify-center  items-center max-w-sm  rounded overflow-hidden"
+            className=" dark:text-white  border mt-10 flex flex-col justify-center  items-center max-w-sm  rounded overflow-hidden"
             key={project.id}>
             <img
               className="w-full m-auto"
               src={project.img}
               alt={project.title}
               />
+              <div className="px-2.5">
               <div className="text-xl font-bold mt-2">{project.title}</div>
-            <p className="mt-2">{`${project.description.slice(0,80)}...`}</p>
-            <p className="mt-2">{project.rol}</p>
+            <p className="mt-2 mb-2">{`${project.description.slice(0,80)}..`}</p>
+            <span className=" px-2 border rounded bg-white text-black font-semibold ">{project.rol}</span>
             <p className="mt-2">{project.technologies}</p>
-            <div className="flex mt-5 mb-5">
+            <div className="flex justify-center mt-5 mb-5">
               <a
                 className="text-3xl mr-5hover:text-red-700 hover:text-orange-300"
                 target="_blank"
@@ -30,7 +31,7 @@ const Projects = () => {
                 <AiFillGithub />
               </a>
             </div>
-
+            </div>
           </div>
         );
       })}

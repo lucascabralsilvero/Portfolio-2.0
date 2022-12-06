@@ -26,7 +26,7 @@
     "img": "../../public/img/AlkyBank.png",
     "title": "Alkemy Bank",
     "description": "Se trata de un proyecto realizado en equipo para Alkemy, en el cual se nos pidió llevar a cabo una billetera virtual, en donde se podía realizar operaciones de transferencia, carga de saldo, extracción de dinero, etc. entre usuarios registrados en la plataforma, a través de la API brindada por Alkemy",
-    "technologies": "React Con Redux, Bootstrap, Formik, Yup, GIT",
+    "technologies": "React, Redux, Bootstrap, Formik, Yup, GIT",
     "rol": "Frontend",
     "deploy": "https://skill-up-react-eta.vercel.app/",
     "github": "https://github.com/lucascabralsilvero/skill-up-react"
@@ -70,7 +70,7 @@
     "img": "../../public/img/mangadiction.png",
     "title": "Mangadiction",
     "description": "Proyecto Final para el curso de ReactJS de la academia Coderhouse. La aplicación permite seleccionar productos, navegar a sus detalles, agregarlos al carrito, poder acceder a él y simular la compra de los mismos. Al realizar una compra, se solicita completar un formulario con datos básicos y luego se genera un id de orden para el usuario, dicha orden se almacena en Firebase con los datos de los productos comprados.",
-    "technologies": "Html, Css(Sass), React , Bootstrap, Firebase, React-Router-Dom",
+    "technologies": "Html, Css(Sass), React, Bootstrap, Firebase, React-Router-Dom",
     "rol": "Frontend",
     "deploy": "https://mangadiction-coderhouse.netlify.app/",
     "github": "https://github.com/lucascabralsilvero/mangadiction-coderhouse"
@@ -129,16 +129,5 @@
     "rol": "Frontend",
     "deploy": "https://crud-redux-practice.netlify.app",
     "github": "https://github.com/lucascabralsilvero/redux-crud-practice"
-  },
-
-  {
-    "id": "13",
-    "img": "../../public/img/proximamente.png",
-    "title": "",
-    "description": "",
-    "technologies": "",
-    "rol": "",
-    "deploy": "",
-    "github": ""
   }
 ]
