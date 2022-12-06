@@ -1,0 +1,144 @@
+ [
+  {
+    "id": "1",
+    "img": "../../public/img/Makalu.png",
+    "title": "Makalu Helados",
+    "description": "Proyecto final realizado para la cursada de Desarrollo Web en Coderhouse.",
+    "technologies": "Html, Css(Sass), Grid",
+    "rol": "Frontend",
+    "deploy": "https://makalu-helados.netlify.app",
+    "github": "https://github.com/lucascabralsilvero/MakaluHelados-Coderhouse"
+  },
+
+  {
+    "id": "2",
+    "img": "../../public/img/techspot.png",
+    "title": "TechSpot",
+    "description": "Proyecto final realizado para la cursada de JavaScript en Coderhouse.",
+    "technologies": "Html, Css(Sass), Bootstrap , Javascript",
+    "rol": "Frontend",
+    "deploy": "https://techspotcommerce.netlify.app/",
+    "github": "https://github.com/lucascabralsilvero/TechSpot-Coderhouse"
+  },
+
+  {
+    "id": "3",
+    "img": "../../public/img/AlkyBank.png",
+    "title": "Alkemy Bank",
+    "description": "Se trata de un proyecto realizado en equipo para Alkemy, en el cual se nos pidió llevar a cabo una billetera virtual, en donde se podía realizar operaciones de transferencia, carga de saldo, extracción de dinero, etc. entre usuarios registrados en la plataforma, a través de la API brindada por Alkemy",
+    "technologies": "React Con Redux, Bootstrap, Formik, Yup, GIT",
+    "rol": "Frontend",
+    "deploy": "https://skill-up-react-eta.vercel.app/",
+    "github": "https://github.com/lucascabralsilvero/skill-up-react"
+  },
+
+  {
+    "id": "4",
+    "img": "../../public/img/weather-app.png",
+    "title": "Weather App",
+    "description": "Proyecto realizado en react utilizando y consumiendo la API de OpenWeatherMap.",
+    "technologies": "Html, Css, Bootstrap, React",
+    "rol": "Frontend",
+    "deploy": "https://weather-prediction-app.netlify.app/",
+    "github": "https://github.com/lucascabralsilvero/weather-app"
+  },
+
+  {
+    "id": "5",
+    "img": "../../public/img/IMDb-clone.png",
+    "title": "IMDb Clone",
+    "description": "El proyecto es un clon simplificado de IMDb, en el cual se lee la información de distintos tipos de películas a través de la API de The Movie Db, a partir de esto, se crea la interfaz gráfica permitiendo al usuario ver la información detallada de la película que desee.",
+    "technologies": "Html, Css, React",
+    "rol": "Frontend",
+    "deploy": "https://imdb-clone-project.netlify.app/",
+    "github": "https://github.com/lucascabralsilvero/imdb-clone"
+  },
+
+  {
+    "id": "6",
+    "img": "../../public/img/Rick-and-Morty-Wiki.png",
+    "title": "Rick & Morty Wiki",
+    "description": "Proyecto realizado en React, utilizando y consumiendo la API de Rick and Morty para crear una Wiki.",
+    "technologies": "Html, Css(Sass), React, Bootstrap, React-Router-Dom, React-Paginate",
+    "rol": "Frontend",
+    "deploy": "https://rickmorty-wiki.netlify.app/",
+    "github": "https://github.com/lucascabralsilvero/rick-morty-wiki"
+  },
+
+  {
+    "id": "7",
+    "img": "../../public/img/mangadiction.png",
+    "title": "Mangadiction",
+    "description": "Proyecto Final para el curso de ReactJS de la academia Coderhouse. La aplicación permite seleccionar productos, navegar a sus detalles, agregarlos al carrito, poder acceder a él y simular la compra de los mismos. Al realizar una compra, se solicita completar un formulario con datos básicos y luego se genera un id de orden para el usuario, dicha orden se almacena en Firebase con los datos de los productos comprados.",
+    "technologies": "Html, Css(Sass), React , Bootstrap, Firebase, React-Router-Dom",
+    "rol": "Frontend",
+    "deploy": "https://mangadiction-coderhouse.netlify.app/",
+    "github": "https://github.com/lucascabralsilvero/mangadiction-coderhouse"
+  },
+
+  {
+    "id": "8",
+    "img": "../../public/img/netflix-clone.png",
+    "title": "Netflix Clone",
+    "description": "Proyecto destinado a realizar un pequeño clon de la página principal de netflix, así como también su pantalla de Login y un sistema de favoritos, cuya información es almacenada en la base de datos de Firebase.",
+    "technologies": "Html, Css(Tailwind), React, Firebase, React-Router-Dom, Sweet Alert",
+    "rol": "Frontend",
+    "deploy": "https://netflixprojectclone.netlify.app/",
+    "github": "https://github.com/lucascabralsilvero/netflix-clone"
+  },
+
+  {
+    "id": "9",
+    "img": "../../public/img/todo-app.png",
+    "title": "Todo-App",
+    "description": "Un proyecto simple a modo de practica en donde construyo una lista de tareas pendientes, implementando firebase como BD para persistir los datos ingresados por el usuario.",
+    "technologies": "Html, Css(Tailwind), Javascript, React, Firebase",
+    "rol": "Frontend",
+    "deploy": "https://to-do-with-react-app.netlify.app/",
+    "github": "https://github.com/lucascabralsilvero/todo-react-app"
+  },
+
+  {
+    "id": "10",
+    "img": "../../public/img/Chat-App.png",
+    "title": "Chat App",
+    "description": "Chat en tiempo real utilizando Firebase como base de datos para almacenar los usuarios y los datos!",
+    "technologies": "Html, Css(Tailwind), Javascript, React, Firebase",
+    "rol": "Frontend",
+    "deploy": "https://messages-react-app.netlify.app/",
+    "github": "https://github.com/lucascabralsilvero/chat-app-react"
+  },
+
+  {
+    "id": "11",
+    "img": "../../public/img/millionaire-app.png",
+    "title": "Millionaire App",
+    "description": "Proyecto basado en el popular programa de televisión ¿Quién quiere ser millonario?, para este proyecto decidí utilizar css puro para los estilos y la librería use-sound para manejar los efectos de sonido de la página, para brindar una mejor experiencia.",
+    "technologies": "Html, Css, Javascript, React",
+    "rol": "Frontend",
+    "deploy": "https://millionaire-react-app.netlify.app/",
+    "github": "https://github.com/lucascabralsilvero/millionaire-app"
+  },
+
+  {
+    "id": "12",
+    "img": "../../public/img/crud-redux.png",
+    "title": "Redux Toolkit Crud",
+    "description": "Un simple Crud para practicar Redux Toolkit con Vite.",
+    "technologies": "Html, Tailwind Css, React, Redux Toolkit, Sweet Alert, Vite",
+    "rol": "Frontend",
+    "deploy": "https://crud-redux-practice.netlify.app",
+    "github": "https://github.com/lucascabralsilvero/redux-crud-practice"
+  },
+
+  {
+    "id": "13",
+    "img": "../../public/img/proximamente.png",
+    "title": "",
+    "description": "",
+    "technologies": "",
+    "rol": "",
+    "deploy": "",
+    "github": ""
+  }
+]
