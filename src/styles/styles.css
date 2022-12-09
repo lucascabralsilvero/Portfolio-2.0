@@ -9,7 +9,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-
 header ul li span{
     transform: translateX(-101%);
     transition: transform .2s ease-in
@@ -17,4 +16,18 @@ header ul li span{
 
 header ul li:hover span{
     transform: translateX(0)
+}
+
+header ul li.active span{
+    transform: none;
+    transition: none;
+}
+
+
+button.active{
+    background-color: orange;
+}
+
+.shadowColor{
+    text-shadow: 1px 1px 0 blue, 1px -1px 0 blue, -1px 1px 0 blue, -1px -1px 0 blue, 1px 0px 0 blue, 0px 1px 0 blue, -1px 0px 0 blue, 0px -1px 0 blue;
 }

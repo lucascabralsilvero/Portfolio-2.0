@@ -4,7 +4,7 @@
     "img": "../../public/img/Makalu.png",
     "title": "Makalu Helados",
     "description": "Proyecto final realizado para la cursada de Desarrollo Web en Coderhouse.",
-    "technologies": "Html, Css(Sass), Grid",
+    "technologies": "Html, Sass, Grid",
     "rol": "Frontend",
     "deploy": "https://makalu-helados.netlify.app",
     "github": "https://github.com/lucascabralsilvero/MakaluHelados-Coderhouse"
@@ -15,7 +15,7 @@
     "img": "../../public/img/techspot.png",
     "title": "TechSpot",
     "description": "Proyecto final realizado para la cursada de JavaScript en Coderhouse.",
-    "technologies": "Html, Css(Sass), Bootstrap , Javascript",
+    "technologies": "Html, Sass, Bootstrap, Javascript",
     "rol": "Frontend",
     "deploy": "https://techspotcommerce.netlify.app/",
     "github": "https://github.com/lucascabralsilvero/TechSpot-Coderhouse"
@@ -26,7 +26,7 @@
     "img": "../../public/img/AlkyBank.png",
     "title": "Alkemy Bank",
     "description": "Se trata de un proyecto realizado en equipo para Alkemy, en el cual se nos pidió llevar a cabo una billetera virtual, en donde se podía realizar operaciones de transferencia, carga de saldo, extracción de dinero, etc. entre usuarios registrados en la plataforma, a través de la API brindada por Alkemy",
-    "technologies": "React, Redux, Bootstrap, Formik, Yup, GIT",
+    "technologies": "React, Redux, Bootstrap, Formik, Yup",
     "rol": "Frontend",
     "deploy": "https://skill-up-react-eta.vercel.app/",
     "github": "https://github.com/lucascabralsilvero/skill-up-react"
@@ -59,7 +59,7 @@
     "img": "../../public/img/Rick-and-Morty-Wiki.png",
     "title": "Rick & Morty Wiki",
     "description": "Proyecto realizado en React, utilizando y consumiendo la API de Rick and Morty para crear una Wiki.",
-    "technologies": "Html, Css(Sass), React, Bootstrap, React-Router-Dom, React-Paginate",
+    "technologies": "Html, Sass, React, Bootstrap, React-Router-Dom, React-Paginate",
     "rol": "Frontend",
     "deploy": "https://rickmorty-wiki.netlify.app/",
     "github": "https://github.com/lucascabralsilvero/rick-morty-wiki"
@@ -70,7 +70,7 @@
     "img": "../../public/img/mangadiction.png",
     "title": "Mangadiction",
     "description": "Proyecto Final para el curso de ReactJS de la academia Coderhouse. La aplicación permite seleccionar productos, navegar a sus detalles, agregarlos al carrito, poder acceder a él y simular la compra de los mismos. Al realizar una compra, se solicita completar un formulario con datos básicos y luego se genera un id de orden para el usuario, dicha orden se almacena en Firebase con los datos de los productos comprados.",
-    "technologies": "Html, Css(Sass), React, Bootstrap, Firebase, React-Router-Dom",
+    "technologies": "Html, Sass, React, Bootstrap, Firebase, React-Router-Dom",
     "rol": "Frontend",
     "deploy": "https://mangadiction-coderhouse.netlify.app/",
     "github": "https://github.com/lucascabralsilvero/mangadiction-coderhouse"
@@ -81,7 +81,7 @@
     "img": "../../public/img/netflix-clone.png",
     "title": "Netflix Clone",
     "description": "Proyecto destinado a realizar un pequeño clon de la página principal de netflix, así como también su pantalla de Login y un sistema de favoritos, cuya información es almacenada en la base de datos de Firebase.",
-    "technologies": "Html, Css(Tailwind), React, Firebase, React-Router-Dom, Sweet Alert",
+    "technologies": "Html, Tailwind, React, Firebase, React-Router-Dom, Sweet Alert",
     "rol": "Frontend",
     "deploy": "https://netflixprojectclone.netlify.app/",
     "github": "https://github.com/lucascabralsilvero/netflix-clone"
@@ -92,7 +92,7 @@
     "img": "../../public/img/todo-app.png",
     "title": "Todo-App",
     "description": "Un proyecto simple a modo de practica en donde construyo una lista de tareas pendientes, implementando firebase como BD para persistir los datos ingresados por el usuario.",
-    "technologies": "Html, Css(Tailwind), Javascript, React, Firebase",
+    "technologies": "Html, Tailwind, Javascript, React, Firebase",
     "rol": "Frontend",
     "deploy": "https://to-do-with-react-app.netlify.app/",
     "github": "https://github.com/lucascabralsilvero/todo-react-app"
@@ -103,7 +103,7 @@
     "img": "../../public/img/Chat-App.png",
     "title": "Chat App",
     "description": "Chat en tiempo real utilizando Firebase como base de datos para almacenar los usuarios y los datos!",
-    "technologies": "Html, Css(Tailwind), Javascript, React, Firebase",
+    "technologies": "Html, Tailwind, Javascript, React, Firebase",
     "rol": "Frontend",
     "deploy": "https://messages-react-app.netlify.app/",
     "github": "https://github.com/lucascabralsilvero/chat-app-react"
@@ -125,7 +125,7 @@
     "img": "../../public/img/crud-redux.png",
     "title": "Redux Toolkit Crud",
     "description": "Un simple Crud para practicar Redux Toolkit con Vite.",
-    "technologies": "Html, Tailwind Css, React, Redux Toolkit, Sweet Alert, Vite",
+    "technologies": "Html, Tailwind, React, Redux Toolkit, Sweet Alert, Vite",
     "rol": "Frontend",
     "deploy": "https://crud-redux-practice.netlify.app",
     "github": "https://github.com/lucascabralsilvero/redux-crud-practice"
