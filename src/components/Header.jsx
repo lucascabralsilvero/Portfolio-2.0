@@ -8,7 +8,7 @@ const Header = () => {
   const [selected, setSelected] = useState(null); 
 
   return (
-    <header className=" bg-slate-900 fixed w-screen h-20 text-white flex justify-around items-center ">
+    <header className=" bg-slate-900 fixed w-screen h-20 text-white flex justify-around items-center border-b z-50">
       <div onClick={ () => setSelected(null)}>
         <Link to={"/"}>
           <img className="w-28" src={logo} alt="logo" />

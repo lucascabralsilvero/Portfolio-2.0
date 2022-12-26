@@ -9,7 +9,7 @@ const Pagination = ({totalPost, postPerPage, setCurrentPage,currentPage}) => {
     }
 
   return (
-    <div>
+    <div >
         {
             pages.map((page, index) => {
                 return <button className={`${page == currentPage ? "active" : ""} bg-white mr-5 w-10 h-10 font-bold mt-10 mb-10`} key={index} onClick={() => setCurrentPage(page)} >{page}</button>
